@@ -1,0 +1,38 @@
+td{
+    border: 2px solid black;
+    height: 150px;
+    width: 150px;
+    align-items: center;
+    text-align: center;
+    font-size: 100px;
+    font-family: monospace;
+}
+
+table{
+  border-collapse: collapse;
+  margin-left: 470px;
+  margin-top: 50px;
+
+}
+
+button{
+  font-style: italic;
+  margin-left: 630px;
+  width: 150px;
+  margin-top: 40px;
+  height: 60px;
+}
+.endgame{
+  display: none;
+  width: 7000px;
+  height: 100px;
+  top:120px;
+  text-align: center;
+  font-size: 50px;
+  font-family: monospace;
+  opacity: 0.5;
+  background-color: yellow;
+  position: absolute;
+  margin-left: 000px;
+  margin-top: 100px;
+}
