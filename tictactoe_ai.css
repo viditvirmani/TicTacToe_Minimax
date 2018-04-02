@@ -22,17 +22,4 @@ button{
   margin-top: 40px;
   height: 60px;
 }
-.endgame{
-  display: none;
-  width: 7000px;
-  height: 100px;
-  top:120px;
-  text-align: center;
-  font-size: 50px;
-  font-family: monospace;
-  opacity: 0.5;
-  background-color: yellow;
-  position: absolute;
-  margin-left: 000px;
-  margin-top: 100px;
-}
+
